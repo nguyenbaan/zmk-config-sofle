@@ -23,7 +23,7 @@
 &kp C_AL_MY_COMPUTER  &kp Q   &kp W             &kp F        &kp P           &kp B                                            &kp J                  &kp L            &kp U        &kp Y              &kp QUESTION      &kp INS
 &mt LEFT_WIN ESC      &kp A   &mt LEFT_SHIFT R  &mt LCTRL S  &mt LEFT_ALT T  &kp G                                            &kp M                  &mt RIGHT_ALT N  &mt RCTRL E  &mt RIGHT_SHIFT I  &kp O             &kp RIGHT_WIN
 &kp CAPS              &kp Z   &kp X             &kp C        &kp D           &kp V            &kp C_MUTE    &kp K_PLAY_PAUSE  &kp K                  &kp H            &kp COMMA    &kp DOT            &kp SINGLE_QUOTE  &kp DEL
-                              &none             &none        &none           &lt 1 BACKSPACE  &lt 3 TAB     &lt 2 ENTER       &mt RIGHT_SHIFT SPACE  &none            &none        &none
+                              &none             &none        &none           &lt LOWER BACKSPACE  &lt ADJUST TAB     &lt RAISE ENTER       &mt RIGHT_SHIFT SPACE  &none            &none        &none
             >;
 
             sensor-bindings =
