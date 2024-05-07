@@ -5,9 +5,9 @@
 #include <dt-bindings/zmk/ext_power.h>
 
 #define BASE 0
-#define LOWER 1
-#define RAISE 2
-#define ADJUST 3
+#define RAISE 1
+#define MOUSE 2
+#define ARROW 3
 
 / {
     keymap {
